@@ -1,0 +1,26 @@
+{
+  "name": "rbxgroupbot",
+  "version": "5.0.4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  "engines": {
+    "node": "8.1.4"
+   }
+  },
+  "author": "roblox1337",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "discord.js": "^11.1.0",
+    "google": "^2.1.0",
+    "jsonfile": "^3.0.0",
+    "webhook-discord": "^2.0.6"
+  },
+  "devDependencies": {},
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "roblox-js": "^3.0.6"
+  }
+  
